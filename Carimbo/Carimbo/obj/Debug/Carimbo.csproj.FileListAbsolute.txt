@@ -1,0 +1,7 @@
+C:\Users\rafae\Desktop\Nova pasta\Marlon\Carimbo\Carimbo\bin\Debug\Carimbo.exe.config
+C:\Users\rafae\Desktop\Nova pasta\Marlon\Carimbo\Carimbo\bin\Debug\Carimbo.exe
+C:\Users\rafae\Desktop\Nova pasta\Marlon\Carimbo\Carimbo\bin\Debug\Carimbo.pdb
+C:\Users\rafae\Desktop\Nova pasta\Marlon\Carimbo\Carimbo\obj\Debug\Carimbo.csprojAssemblyReference.cache
+C:\Users\rafae\Desktop\Nova pasta\Marlon\Carimbo\Carimbo\obj\Debug\Carimbo.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\Nova pasta\Marlon\Carimbo\Carimbo\obj\Debug\Carimbo.exe
+C:\Users\rafae\Desktop\Nova pasta\Marlon\Carimbo\Carimbo\obj\Debug\Carimbo.pdb
